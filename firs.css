@@ -1,0 +1,14 @@
+body{
+    padding: 20px;
+}
+.Red{
+    background-color: red;
+    color: white;
+}
+.Yellow{
+background-color: yellow;
+color: white;
+}
+.text-black{
+    color: black;
+}
